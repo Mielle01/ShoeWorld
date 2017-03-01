@@ -9,7 +9,7 @@ body {
 }
 
 .slide-image {
-    width: 100%;
+    width: 50%;
 }
 
 .carousel-holder {
@@ -22,7 +22,7 @@ body {
 }
 
 .caption {
-    height: 130px;
+    height: 100px;
     overflow: hidden;
 }
 
@@ -37,7 +37,7 @@ body {
 .ratings {
     padding-right: 10px;
     padding-left: 10px;
-    color: #d17581;
+    color: gold;
 }
 
 .thumbnail {
